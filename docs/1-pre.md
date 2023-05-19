@@ -12,7 +12,8 @@
 
 ## 2. 安装docker（所有节点）
 一般情况使用下面的方法安装即可
-docker安装可参照[阿里云的文档](https://help.aliyun.com/document_detail/60742.html?spm=5176.11065259.1996646101.searchclickresult.261ebdd3Qy7wLJ)
+docker安装可参照 ~~[阿里云的文档](https://help.aliyun.com/document_detail/60742.html?spm=5176.11065259.1996646101.searchclickresult.261ebdd3Qy7wLJ)~~
+[https://blog.csdn.net/qq_42376617/article/details/126389108](https://blog.csdn.net/qq_42376617/article/details/126389108)
 #### 2.1 卸载旧版本(如果有的话)
 ```bash
 $ apt-get remove docker docker-engine docker.io
